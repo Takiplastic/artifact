@@ -4,19 +4,21 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - Shadow
+  - Collide
   - ring
   - enemy
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Player
+  - 
   - Water
   - UI
-  - Enemy
-  - terrain
   - 
   - 
+  - TempCast
+  - Walkable
   - 
   - 
   - 
