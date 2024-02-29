@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 420ef2609c0c7cd4c9323b8bfcbb2185, type: 3}
+  m_Name: Item
+  m_EditorClassIdentifier: 
+  skillType: 3
+  kanjiName: "\u30A2\u30A4\u30C6\u30E0"
+  hiraganaName: "\u3042\u3044\u3066\u3080"
+  information: "\u30A2\u30A4\u30C6\u30E0\u3092\u4F7F\u3046"
+  skillUserEffect: {fileID: 0}
+  skillReceivingSideEffect: {fileID: 100004, guid: 416e6fa784bb525409d93806ae3663a7, type: 3}
+  userPosType: 1
+  targetPosType: 1
+  skillArea: {fileID: 0}

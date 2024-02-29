@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba40eabcdd7a28943ae8e12590f64385, type: 3}
+  m_Name: Unitychanstatus
+  m_EditorClassIdentifier: 
+  characterName: "\u30E6\u30CB\u30C6\u30A3\u3061\u3083\u3093"
+  isPoisonState: 0
+  isNumbnessState: 0
+  level: 1
+  maxHp: 100
+  hp: 100
+  maxMp: 60
+  mp: 60
+  agility: 5
+  power: 40
+  strikingStrength: 10
+  magicPower: 40
+  magicStrength: 10
+  Burst: 0
+  BurstModeEffect: {fileID: 1727626132299242, guid: b0bc1b6b391734647b9bb142bafc0819, type: 3}
+  skillList:
+  - {fileID: 11400000, guid: 6714cd06986dea74bb2201f43da7092a, type: 2}
+  - {fileID: 11400000, guid: 1f1b2346a5d1f8149b45111c9ae69657, type: 2}
+  - {fileID: 11400000, guid: fea81fcd368fa9b4282ea3bada85c610, type: 2}
+  - {fileID: 11400000, guid: 0383db9f1b1ad194682827a538c0c336, type: 2}
+  - {fileID: 11400000, guid: f7d2e4c1830bb76489598171dba9eb70, type: 2}
+  - {fileID: 11400000, guid: d255eecb83b9cd445a97e90a0c882d0b, type: 2}
+  - {fileID: 11400000, guid: dd789f6580017be4480908949c3eb823, type: 2}
+  - {fileID: 11400000, guid: e96fc78aaf818b84a9ab78cca5cc13bd, type: 2}
+  - {fileID: 11400000, guid: b17769bf71fb9994ca131b000ae6da8c, type: 2}
+  - {fileID: 11400000, guid: efbad7e0aebb47048b0fcac2223ed048, type: 2}
+  - {fileID: 11400000, guid: ce7782ebc9aec5545a8599c09f4e06c4, type: 2}
+  earnedExperience: 500
+  equipWeapon: {fileID: 11400000, guid: 301a1c99d21d8074da045045b0f2f5f9, type: 2}
+  equipArmor: {fileID: 0}
+  itemDictionary:
+    m_keys:
+    - {fileID: 11400000, guid: 7d8975233b46df84c9bbfc63724f1e7c, type: 2}
+    - {fileID: 11400000, guid: ae545151489f86a4dac4a38473e34a2b, type: 2}
+    m_values: 2300000001000000
+  levelUpData: {fileID: 11400000, guid: 55320bf659d7a214b92dc1724435c014, type: 2}

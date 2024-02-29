@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b1e3b8cb6b7e9c43bc2e28067f146a3, type: 3}
+  m_Name: GreatSword
+  m_EditorClassIdentifier: 
+  itemType: 4
+  kanjiName: "\u30B0\u30EC\u30FC\u30C8\u30BD\u30FC\u30C9"
+  hiraganaName: "\u3050\u308C\u30FC\u3068\u305D\u30FC\u3069"
+  information: "\u92FC\u9244\u3067\u3067\u304D\u305F\u4E21\u624B\u5263\u3001\u5207\u308B\u3088\u308A\u6BB4\u3063\u305F\u65B9\u304C\u5F37\u3044"
+  amount: 30
+  itemObject: {fileID: 875912093155289174, guid: 6b95cf737e94d73488d205f765bc4caf, type: 3}
+  preferposition: {x: 0, y: 0, z: 0}
+  preferrotation: {x: 64, y: 66, z: 70}
