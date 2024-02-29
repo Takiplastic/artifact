@@ -1,4 +1,0 @@
-#UnityEffectSample
-
-## License
-MIT
